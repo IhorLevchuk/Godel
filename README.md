@@ -18,7 +18,7 @@
 
 Поиск:
 
-Диапазон id записей: 1-11
+Диапазон id расходов: 1-11
 
 http://localhost:8081/Godel/expenses/searchParameters
 
